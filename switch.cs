@@ -15,11 +15,11 @@ Student s3;
 
 s1.name="Sushil";
 s1.address="Ghar bata";
-s1.rollno=1;
+s1.rollno=11;
 
 s2.name="Sujan";
 s2.address="Sishuwa";
-s2.rollno=21;
+s2.rollno=20;
 
 s3.name="Messi";
 s3.address="Argentina";
