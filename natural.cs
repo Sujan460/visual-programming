@@ -5,7 +5,7 @@ public class HelloWorld
 {
     public static void Main(string[] args)
     {
-      Console.WriteLine("Enter How many numbers you want to sum :");
+      Console.WriteLine("Enter number you want to sum :");
       int n= int.Parse(Console.ReadLine());
         int b=0;
         for(int i=0;i<=n;i++){
