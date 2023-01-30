@@ -11,10 +11,10 @@ public class HelloWorld
        Array.Reverse(arr);
        string str1=new string (arr);
        if(str.Equals(str1)){
-        Console.WriteLine("Palindrome string");
+        Console.WriteLine("String is palindrome");
        }
        else{
-        Console.Write("Not a palindrome string");
+        Console.Write("string is not palindrome");
        }
        
     }
